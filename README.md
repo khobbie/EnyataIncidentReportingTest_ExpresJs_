@@ -3,6 +3,13 @@
 
 # Incident reporting API with Express Js
 
+## Install Project
+
+    $ git clone https://github.com/khobbie/InvestmentInterestCalculator_HapiJs.git
+    $ cd InvestmentInterestCalculator_HapiJs
+    $ npm install
+    $ npm install nodemon -g
+
 Incident reporting.
 As part of this test, you are tasked to create endpoints to submit and list incident reports for insurance clients.
 
@@ -29,7 +36,5 @@ Good luck ;)
 openweathermap.orgopenweathermap.org
 Current weather data - OpenWeatherMap
 Access current weather data for any location on Earth. We collect and process weather data from different sources such as global and local weather models, satellites, radars and vast network of weather stations. Data is available in JSON, XML, or HTML format
-
-PLEASE NOTE: Deadline for this is Thursday 20th January, 2022 at 4:00PM prompt.
 
 Thank you
