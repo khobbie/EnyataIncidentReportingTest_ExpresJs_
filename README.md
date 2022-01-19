@@ -10,10 +10,11 @@
     $ npm install
     $ nodemon
 
-#### Rename 'env.example' to '.env' and put in your postreSQL database conection details
+##### Rename 'env.example' to '.env' and put in your postreSQL database conection details
 
 ##
-#### Run the 'data.sql' in your postgreSQL
+##### Create database 'enyata_db'
+##### Run the 'data.sql' in your postgreSQL
     
 ##
 Incident reporting.
