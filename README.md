@@ -10,7 +10,7 @@
     $ npm install
     $ nodemon
 
-#### Rename 'env.example' to .env
+#### Rename 'env.example' to '.env' and put in your postreSQL database conection details
     
 
 Incident reporting.
