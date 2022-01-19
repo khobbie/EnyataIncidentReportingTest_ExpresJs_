@@ -107,6 +107,6 @@ exports.createIncident = async(req, res, next) => {
 };
 
 exports.getIncidents = async(req, res, next) => {
-    const response = await db.query('SELECT * FROM incidents ORDER BY id DESC');
+    const response = await db.query('SELECT * FROM "incidents" ORDER BY id DESC');
     res.status(200).send(response.rows);
 }

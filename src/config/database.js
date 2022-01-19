@@ -15,7 +15,7 @@ dotenv.config();
 const pool = new Pool({
     user: process.env.db_username,
     host: process.env.host,
-    database: process.env.enyata_db,
+    database: process.env.db_name,
     password: process.env.db_password,
     port: process.env.port_,
 
