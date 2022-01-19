@@ -5,13 +5,16 @@
  * Author: Kwabena Ampah
  */
 
+const dotenv = require('dotenv');
+dotenv.config();
+
 const Joi = require('joi');
 
 const db = require("../config/database");
 const axios = require("axios")
 
 //Weather api key
-const appid = "bbe6fdffb7963952b801f00b56c00ea0";
+const appid = process.env.WEATHER_API_KEY;
 const baseURL = "https://api.openweathermap.org/data/2.5/weather";
 
 
