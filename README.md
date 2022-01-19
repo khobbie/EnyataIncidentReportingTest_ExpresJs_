@@ -3,12 +3,13 @@
 
 # Incident reporting API with Express Js
 
-## Install Project
 
-    $ git clone https://github.com/khobbie/InvestmentInterestCalculator_HapiJs.git
-    $ cd InvestmentInterestCalculator_HapiJs
+    $ git clone https://github.com/khobbie/EnyataIncidentReportingTest_ExpresJs_.git
+    $ cd EnyataIncidentReportingTest_ExpresJs_
     $ npm install
-    $ npm install nodemon -g
+    $ nodemon
+
+$ Rename 'env.example' to .env
 
 Incident reporting.
 As part of this test, you are tasked to create endpoints to submit and list incident reports for insurance clients.
