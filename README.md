@@ -10,8 +10,8 @@
     $ npm install
     $ nodemon
 
-###
-    $ Rename 'env.example' to .env
+#### Rename 'env.example' to .env
+    
 
 Incident reporting.
 As part of this test, you are tasked to create endpoints to submit and list incident reports for insurance clients.
