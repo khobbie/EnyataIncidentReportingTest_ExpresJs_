@@ -18,7 +18,27 @@
 ##### Create database 'enyata_db'
 ##### Run the 'data.sql' in your postgreSQL
     
-##
+
+
+#### RESTful Enpoints
+
+* List of all incidents :
+  * GET <http://localhost:3000/api/incidents>
+  
+* Create and add a new incident :
+  * POST <http://localhost:3000/api/report-incident>
+  
+#### Live Endpoints
+* List of all incidents :
+  * GET <https://enyata-incident-report-api.herokuapp.com/api/incidents>
+  
+* Create and add a new incident :
+  * POST <https://enyata-incident-report-api.herokuapp.com/api/report-incident>
+
+#### Postman published collection
+    * https://documenter.getpostman.com/view/1937580/UVXnJFC7
+### Assignment Below
+
 Incident reporting.
 As part of this test, you are tasked to create endpoints to submit and list incident reports for insurance clients.
 
