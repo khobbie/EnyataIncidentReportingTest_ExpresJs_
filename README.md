@@ -18,6 +18,7 @@
 ##### Create database 'enyata_db'
 ##### Run the 'data.sql' in your postgreSQL
     
+##
 
 
 #### RESTful Enpoints
@@ -36,7 +37,7 @@
   * POST <https://enyata-incident-report-api.herokuapp.com/api/report-incident>
 
 #### Postman published collection
-    * https://documenter.getpostman.com/view/1937580/UVXnJFC7
+  * <https://documenter.getpostman.com/view/1937580/UVXnJFC7>
 ### Assignment Below
 
 Incident reporting.
